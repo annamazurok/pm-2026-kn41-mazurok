@@ -7,3 +7,4 @@ ST-05,Викладачі,академія,high,low,supporter,keep_informed,BA
 ST-06,Студентське самоврядування,академія,high,low,neutral,keep_informed,PM
 ST-07,Старости груп,академія,high,low,neutral,keep_informed,BA
 ST-08,Адміністратор Telegram-каналу оголошень,академія,low,low,blocker,monitor,PM
+ST-09,Служба інформаційної безпеки академії,академія,high,high,neutral,manage_closely,PM
