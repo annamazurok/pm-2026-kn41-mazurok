@@ -8,3 +8,7 @@ ST-06,Студентське самоврядування,академія,high,
 ST-07,Старости груп,академія,high,low,neutral,keep_informed,BA
 ST-08,Адміністратор Telegram-каналу оголошень,академія,low,low,blocker,monitor,PM
 ST-09,Служба інформаційної безпеки академії,академія,high,high,neutral,manage_closely,PM
+ST-10,PM (я),команда проєкту,high,high,supporter,manage_closely,PM
+ST-11,BA (бізнес-аналітик),команда проєкту,high,low,supporter,keep_informed,PM
+ST-12,Dev (розробник),команда проєкту,high,low,supporter,keep_informed,PM
+ST-13,QA (інженер з якості),команда проєкту,high,low,supporter,keep_informed,PM
