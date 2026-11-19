@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.25,80,411,https://dou.ua/lenta/articles/salary-report-managers-summer-2026/,Медіана DOU літо 2026 $2500 проти $3500 у Dev: пропорція 0.71
+BA,0.5,160,431,https://dou.ua/lenta/articles/salary-report-managers-summer-2026/,У даних DOU окремої медіани BA немає: пропорція 0.75 до Dev це припущення
+Dev,2.0,640,575,https://dou.ua/lenta/articles/salary-report-devs-summer-2026/,Медіана DOU літо 2026 $3500: базова ставка для двох розробників по 100%
+QA,0.5,160,444,https://dou.ua/lenta/articles/salary-report-qa-summer-2026/,General QA $2700 проти $3500 у Dev: пропорція 0.77
